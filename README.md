@@ -1,1 +1,1 @@
-# 747Typh_MC_SV_client_setup
+Run install.cmd to start installing prism launcher and files to join 747TYPHOON's MC Server. Do not edit anything in these files!
