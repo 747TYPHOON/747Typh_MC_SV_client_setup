@@ -1,1 +1,1 @@
-Run install.cmd to start installing prism launcher and files to join 747TYPHOON's MC Server. Do not edit anything in these files!
+Run installer.exe to start installing prism launcher and files to join 747TYPHOON's MC Server. Do not edit anything in these files!
